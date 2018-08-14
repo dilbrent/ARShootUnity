@@ -1,0 +1,2 @@
+I:\Git\ARShoot-Game-Markerless-Augmented-Reality-Unity3D-iOS-Android\obj\Debug\Assembly-CSharp-firstpass.csproj.CoreCompileInputs.cache
+I:\git\ARShoot-Game-Markerless-Augmented-Reality-Unity3D-iOS-Android\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
